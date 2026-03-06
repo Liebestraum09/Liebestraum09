@@ -2,7 +2,8 @@
 
 ### About Me
 
-I am a student dedicated to uncovering the essence of problems and cultivating the insight to read the world. By reading between the lines of news and data every day, I live by the philosophy of the 'Oracle of Omaha'—striving to go to bed a little wiser than when I woke up.
+I am a student dedicated to uncovering the essence of problems and cultivating the insight to read the world. 
+By reading between the lines of news and data every day, I live by the philosophy of striving to go to bed a little wiser than when I woke up.
 
 ---
 
