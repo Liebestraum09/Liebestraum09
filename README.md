@@ -2,9 +2,11 @@
 
 ### About Me
 
-I am a student dedicated to uncovering the essence of problems and cultivating the insight to read the world. 
+I am a student dedicated to focusing on the essence of problems and cultivating the insight to read the world. 
 
 By reading between the lines of news and data every day, I live by the philosophy of striving to go to bed a little wiser than when I woke up.
+
+Self-taught PyTorch and actively expanding my horizon in machine learning and macro-economics through dedicated self-commitment. 
 
 ---
 
